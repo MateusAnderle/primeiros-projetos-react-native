@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "3-login-instagram",
+    "slug": "3-login-instagram",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
