@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "6-app-de-tarefas",
+    "slug": "6-app-de-tarefas",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "androidStatusBar": {
+    "barStyle": "light-content",
+    "backgroundColor": "#000"
+  }
+}

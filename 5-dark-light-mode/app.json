@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "5-dark-light-mode",
+    "slug": "5-dark-light-mode",
+    "version": "1.0.0",
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
