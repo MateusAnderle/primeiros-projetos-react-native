@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "7-app-academia",
+    "slug": "7-app-academia",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
